@@ -1,0 +1,16 @@
+1. Spring MCQ
+
+https://tutorialsinhand.com/aptitudes/spring-aptitude/spring-mcq-aptitude/spring-mcq-1.aspx
+https://www.courseya.com/spring-mcq/
+
+
+2. Spring IOC
+
+https://techmentro.com/quiz/spring_ioc.php
+https://techmentro.com/quiz/jpa.php
+
+
+3. Spring MCQ and Online quize
+
+https://www.interviewmocks.com/spring-mcq/
+https://quizizz.com/admin/quiz/5c304464bf55f9001bfe9969/spring-boot-level-1
