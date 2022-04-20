@@ -14,10 +14,10 @@ https://techmentro.com/quiz/jpa.php
 
 https://www.interviewmocks.com/spring-mcq/
 https://quizizz.com/admin/quiz/5c304464bf55f9001bfe9969/spring-boot-level-1
+https://stackhowto.com/spring-mcqs-multiple-choice-questions-and-answers-part-1/
 
 spring boot
 https://www.tutorialspoint.com/spring/spring_online_quiz.htm
-https://stackhowto.com/spring-mcqs-multiple-choice-questions-and-answers-part-1/
 https://www.sanfoundry.com/1000-spring-questions-answers/
 https://www.onlineinterviewquestions.com/spring-mcq/
 https://www.javatpoint.com/spring-quiz
