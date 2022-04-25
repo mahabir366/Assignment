@@ -26,3 +26,4 @@ https://www.javatpoint.com/spring-quiz
 
 
 https://youtu.be/_5sAmaRJd2c
+springboot-thymeleaf-crud-pagination-sorting-webapp
