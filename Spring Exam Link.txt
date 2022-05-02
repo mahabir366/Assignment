@@ -24,34 +24,4 @@ https://www.freshersnow.com/jpa-quiz/
 https://youtu.be/_5sAmaRJd2c
 springboot-thymeleaf-crud-pagination-sorting-webapp
 
-
-
-
-
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.util.stream.Stream;
-
-public class Paragraph {
-
-	public static void main(String[] args) {
-		int n = 7;
-		String line;
-
-		try (Stream<String> lines = Files.lines(Paths.get("E:\\File.txt"))) {
-			line = lines.skip(n).findFirst().get();
-			System.out.println(line);
-
-			int word = line.indexOf(" ");
-
-			String p = (String) line.subSequence(11, 14);
-			System.out.println(p);
-
-		} catch (IOException e) {
-			System.out.println(e);
-		}
-
-	}
-
-}
+===============================================================
