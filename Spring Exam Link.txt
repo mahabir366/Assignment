@@ -25,7 +25,7 @@ https://aticleworld.com/rest-api-mcq/
 https://meshworld.in/rest-api-linkedin-skill-assessments-quizzes-with-answers/
 https://www.freshersnow.com/restful-quiz/
 https://letsfindcourse.com/technical-questions/microsoft-azure-mcq/rest-api-mcq-in-azure
-https://www.theserverside.com/quiz/REST-web-services-and-RESTful-API-quiz-for-developers?q0=2&q1=0&q2=3&q3=1&q4=1&q5=3&q6=0&q7=2&q8=3&q9=0&q10=1&
+https://www.theserverside.com/quiz/REST-web-services-and-RESTful-API-quiz-for-developers?
 
 
 ===============================================================
