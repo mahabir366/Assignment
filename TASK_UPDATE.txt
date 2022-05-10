@@ -1,0 +1,79 @@
+I JOINED IN GIRMITI (February 9, 2022) AS A TRAINEE
+1ST MONTH UPDATE (FEB)-->
+
+=>Induction Training.
+=>Soft Skills Training.
+=>Assigned Java Technology and Java Tutorial resources for self learning
+=>Attained training on Database concepts, CRUD Operations          ->14-02-2022 - 2:30 PM
+=>Attained training on Normalization, Triggers & Stored procedures ->14-02-2022 - 2:30 PM
+=>Attained training on Sprint Data JPA                             ->15-02-2022- 12:30 PM
+=>Attained training on Java Coding Standards	                   ->16-02-2022- 10:00 AM
+=>Attained training on Java Generics and Collections	           ->17-02-2022- 3:30 PM
+=>Attained training on Design Patterns Overview	                   ->17-02-2022- 5:00 PM
+=>Attained training on Core Java & Exception handling	           ->18-02-2022- 11:00 AM
+=>Attained training on Modular Architecture	                   ->18-02-2022- 3:30 PM
+=>Attained training on Java 8 features	                           ->19-02-2022- 11:30 AM
+=>Attained training on Spring Boot	                           ->19-02-2022- 3:00 PM
+=>Attained training on Sonar & Code Coverage	                   ->19-02-2022- 4:00 PM
+=>Attained training on RestFul	                                   ->21-02-2022- 1:30 PM
+=>Attained training on Junit & Mockito	                           ->22-02-2022 - 10:30 AM
+=>Attained training on AOP	                                   ->22-02-2022- 05:30 PM
+=>Attained training on Web	                                   ->23-02-2022 - 07:00 PM
+=>Attained training on J2EE	                                   ->24-02-2022 - 03:00 PM
+=>Attained training on Internet Protocols	                   ->24-02-2022 - 4:00 PM
+=>Attained training on Core	                                   ->25-02-2022 - 02:00 PM
+=>Attained training on Git	                                   ->25-02-2022 - 11:30 AM
+=>Attained training on Open Source Libraries & Licensing	   ->26-02-2022 - 03:00 PM
+
+2ND MONTH UPDATE (MAR)-->
+
+=>
+
+3RD MONTH UPDATE (APR)-->
+
+=>
+
+4TH MONTH UPDATE (MAY)-->
+
+=> 03/05/2022 updates
+*Practice for test spring rest.
+*In J2EE learnt servlet concept.
+*Did two assignment for exception handling given by trainer.
+*While doing acquirer project setup in my system, getting error.Still not setup properly and not running also.
+
+=> 04/05/2022 updates
+*Practice some spring rest mcqs regarding test.
+*I learnt servlet vs JSP with programming code
+*Completed assignment and send to respective trainer.
+*Try to Understanding about Acquirer project code flow .
+*Read Java 8 features 
+
+=> 05/05/2022 updates
+*Spring introduction, IOC and Dependency injection.
+*Used of @EnableEurekaClient, @EnableDiscoveryClient,@Bean,@Component
+*Difference between @Bean and @Component.
+*Used of Enum keyword.
+
+=> 06/05/2022 updates
+*Prepared for spring rest web services Test.
+*I have gone through Acquirer project code , i learnt some annotations
+@Override,
+@Primary, 
+@Component, 
+@Value, @JsonInclude(NON_EMPTY), @JsonIgnoreProperties(ignoreUnknown = true)
+
+=> 07/05/2022 updates
+*Attained training on Generics & Collections.
+*Given spring rest test.
+
+=> 09/05/2022 updates
+*Constructor injection with understanding program examples.
+*Setter injection with understanding program examples.
+*Understanding project code flow implementation.
+
+=> 10/05/2022 updates
+*Spring with ORM,Hibernate & jpa.
+*Spring MVC concept.
+*Understanding about spring Multiple view page and controller.
+*Uses of Spring model interface and requestparam annotation.
+*I studied use of dependency in our acquirer project(Actuator,Web,Netflix Hystrix,jersey-common,Netflix Eureka Client)
