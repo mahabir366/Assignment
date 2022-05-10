@@ -1,0 +1,19 @@
+1. Spring Boot Starter Actuator
+
+>>Starter for using Spring Boot's Actuator which provides production ready features to help you monitor and manage your application.
+
+2.Spring Boot Starter Web
+
+>>Starter for building web, including RESTful, applications using Spring MVC. Uses Tomcat as the default embedded container
+
+3.Spring Cloud Starter Netflix Hystrix
+
+>>providing protection and control over latency and failure from dependencies, most commonly those accessed over network.
+
+4. jersey-common
+
+>>jersey core is used for exposing rest endpoint.
+
+5.Spring Cloud Starter Netflix Eureka Client
+
+>>It consists of the Eureka Server and Eureka clients. Eureka Server is in itself a microservice to which all other microservices registers. Eureka Clients are the independent microservices.
