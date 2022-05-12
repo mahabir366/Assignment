@@ -9,7 +9,7 @@ https://www.freshersnow.com/jpa-quiz/
 https://www.allindiaexams.in/engineering/cse/jpa-mcq-quiz-jpa-online-test
 https://techmentro.com/quiz/jpa.php
 
-4. Spring Data and Rest MCQ
+4. Spring Core
 
 https://stackhowto.com/spring-mcqs-multiple-choice-questions-and-answers-part-1/
 https://tutorialslink.com/mcq-quiz/java-spring-and-spring-boot-mcq-quiz-multiple-choice-questions-and-answers
