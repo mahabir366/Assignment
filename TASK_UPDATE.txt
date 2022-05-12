@@ -77,3 +77,7 @@ I JOINED IN GIRMITI (February 9, 2022) AS A TRAINEE
 *Understanding about spring Multiple view page and controller.
 *Uses of Spring model interface and requestparam annotation.
 *I studied use of dependency in our acquirer project(Actuator,Web,Netflix Hystrix,jersey-common,Netflix Eureka Client)
+
+=> 11/05/2022 updates
+*Java Array concept.
+*Project flow code.
