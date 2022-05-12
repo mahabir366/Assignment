@@ -1,0 +1,11 @@
+Employee contribution to EPF: 12% of salary.
+
+Employer contribution to EPS: 3.67% of salary.
+
+Total EPF contribution every month = (EPF+(EPF-EPS))
+
+Interest = 8.10%/12 = 0.00675*EPF contribution every month
+
+Interest will be calculated at the end of every month, credited at the end of the financial year.
+
+
