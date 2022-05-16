@@ -81,3 +81,27 @@ I JOINED IN GIRMITI (February 9, 2022) AS A TRAINEE
 => 11/05/2022 updates
 *Java Array concept.
 *Project flow code.
+
+=> 12/05/2022 updates
+*Java Lambda Expression and Stream API
+*Understanding project code flow implementation.
+
+=> 13/05/2022 updates
+*Array concept.
+*Lambda expression
+*Stream API
+*Studied core spring test
+
+=> 14/05/2022 updates
+
+*Spring Core exam
+*Get training generics and collection.
+
+=> 16/05/2022 updates
+
+*Microservices concept.
+*Service Registry and Discoery
+*Eureka Server
+*Config server
+
+
