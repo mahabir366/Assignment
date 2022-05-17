@@ -104,4 +104,9 @@ I JOINED IN GIRMITI (February 9, 2022) AS A TRAINEE
 *Eureka Server
 *Config server
 
+=> 17/05/2022 updates
+
+*OOPs concept
+*Try to understand code flow.
+
 
