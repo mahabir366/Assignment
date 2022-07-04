@@ -1,0 +1,32 @@
+>>git clone <git link>
+>>git branch
+*master
+>>git branch <local_branch>
+>>git branch
+*local_branch
+>>git checkout local_branch
+
+===========================
+(update all changes)
+
+>>git branch
+*local_branch
+>>git fetch
+>>git pull origin local_branch
+
+============================
+>>git branch Mahabir#bug
+>>git checkout Mahabir#bug
+>>git branch
+*Mahbair#bug
+
+http://192.168.5.24:3000/terrapay-pg/acquirer-admin/pulls/70
+
+
+*git branch -m branch Name(this is for rename branch)
+*git checkout -b branch Name(new branch create and checkout)
+*git clone -b develop http://192.168.5.24:3000/terrapay-pg/chatak-library.git
+
+
+
+        
