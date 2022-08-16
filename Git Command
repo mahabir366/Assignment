@@ -177,3 +177,11 @@ To http://192.168.5.24:3000/java-workspace/deepak.kumar-ws.git
 ----------------------------------------------------------------------
 Copy above link and open in browser
 
+
+*How to delete commit
+
+git checkout master
+git reset --hard e3f1e37
+git push --force origin master
+
+
